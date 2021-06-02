@@ -1,0 +1,128 @@
+[
+  {
+    "question": "What is the difference between LinuxOne and IBM Z?",
+    "choice1": "Processors",
+    "choice2": "Operating systems",
+    "choice3": "Capacity",
+    "choice4": "Number of users",
+    "answer": 2,
+    "credit": "Wikipedia IBM Z"
+  },
+  {
+    "question": "What processor architecture is used in LinuxOne ?",
+    "choice1": "x86",
+    "choice2": "ARM",
+    "choice3": "s390x",
+    "choice4": "z15",
+    "answer": 3,
+    "credit": "Wikipedia IBM Z"
+  },
+  {
+    "question": "Which is the latest IBM Z model?",
+    "choice1": "x86",
+    "choice2": "z16",
+    "choice3": "s390",
+    "choice4": "z15",
+    "answer": 4,
+    "credit": "Wikipedia IBM Z"
+  },
+  {
+    "question": "How many web transactions can one Linux on Z machine execute?",
+    "choice1": "1 trillion per day",
+    "choice2": "80,000 per second",
+    "choice3": "1 trillion per second",
+    "choice4": "500,000 per second",
+    "answer": 1,
+    "credit": "Wikipedia IBM Z"
+  },
+  {
+    "question": "IBM Z architecture uses Big Endian, what does this mean?",
+    "choice1": "A format in which the least significant byte is stored first.",
+    "choice2": "A format in which the most significant byte is stored first.",
+    "choice3": "A format in which the bigger value is stored first.",
+    "choice4": "A format in which the smaller value is stored first.",
+    "answer": 2,
+    "credit": "Google"
+  },
+  {
+    "question": "What year was Linux on IBM Z officially launched?",
+    "choice1": "1996",
+    "choice2": "2000",
+    "choice3": "1999",
+    "choice4": "1998",
+    "answer": 2,
+    "credit": "Wikipedia IBM Z"
+  },
+  {
+    "question": "What color are the IBM Z machines?",
+    "choice1": "Black and white",
+    "choice2": "Black and blue",
+    "choice3": "Black and orange",
+    "choice4": "Navy Blue and orange",
+    "answer": 2,
+    "credit": "Wikipedia IBM Z"
+  },
+  {
+    "question": "What percentage of companies are using IBM Z?",
+    "choice1": "70% of fortune 500 companies",
+    "choice2": "20% of banks",
+    "choice3": "95% of IT companies",
+    "choice4": "50% of fortune 500 companies",
+    "answer": 1,
+    "credit": "The Exciting world of IBM Z - Crowdcast"
+  },
+  {
+    "question": "What does Z in IBM Z stands for?",
+    "choice1": "Zero Day Exploit",
+    "choice2": "Zero tolerance",
+    "choice3": "Zettabyte",
+    "choice4": "Zero down time",
+    "answer": 4,
+    "credit": "The Exciting world of IBM Z - Crowdcast"
+  },
+  {
+    "question": "Which one is not a supported OS in IBM Z?",
+    "choice1": "z/OS®️",
+    "choice2": "Linux®️",
+    "choice3": "Windows 10®️",
+    "choice4": "z/VM®️.",
+    "answer": 3,
+    "credit": "Wikipedia IBM Z"
+  },
+  {
+    "question": "In which movie a mainframe replaced human handling for the first time?",
+    "choice1": "2001: space oddisey",
+    "choice2": "Independence day",
+    "choice3": "Hidden figures",
+    "choice4": "Apollo 13",
+    "answer": 3,
+    "credit": "The Exciting world of IBM Z - Crowdcast"
+  },
+  {
+    "question": "How many CPU's are available on a LinuxOne machine (max capacity)?",
+    "choice1": "64",
+    "choice2": "128",
+    "choice3": "256",
+    "choice4": "190",
+    "answer": 4,
+    "credit": "The Exciting world of IBM Z - Crowdcast"
+  },
+  {
+    "question": "How many times faster (on average) is a s390 processor than a x86?",
+    "choice1": "4",
+    "choice2": "30",
+    "choice3": "50",
+    "choice4": "20",
+    "answer": 2,
+    "credit": "The Exciting world of IBM Z - Crowdcast"
+  },
+  {
+    "question": "What percent of a company data (on average) is stored in the cloud?",
+    "choice1": "80%",
+    "choice2": "60%",
+    "choice3": "40%",
+    "choice4": "20%",
+    "answer": 4,
+    "credit": "The Exciting world of IBM Z - Crowdcast"
+  }
+]
