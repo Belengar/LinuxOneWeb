@@ -1,14 +1,23 @@
 #highScoresList {
   list-style: none;
   padding-left: 0;
-  margin-bottom: 4rem;
+  margin-bottom: 4vh;
 }
 
 .high-score {
-  font-size: 2.8rem;
-  margin-bottom: 0.5rem;
+  font-size: 3.5vh;
+  margin-bottom: 0.5vh;
 }
 
 .high-score:hover {
   transform: scale(1.025);
+}
+
+.highscore-box {
+  /* border: 1px black solid;  */
+  width: 300px; 
+  height: 30vh; 
+  overflow-y: scroll; 
+  overflow-wrap: normal; 
+  text-align:center ;
 }
